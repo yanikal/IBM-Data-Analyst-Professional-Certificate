@@ -1,0 +1,13 @@
+Tutorials:
+Codecademy
+ Intro to Python tutorial
+ https://www.python.org/
+ https://pythonspot.com
+https://www.learnpython.org/
+
+codeacademy
+w3schools
+
+Python practice:
+HackInScience
+
