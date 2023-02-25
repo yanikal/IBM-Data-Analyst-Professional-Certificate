@@ -19,5 +19,5 @@ Throughout this course you will learn the key aspects to data analysis. You will
 
 ---
 
-<p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-1-Coursera X5PWECG36MRX.png" width=60% height=60%>
+
+
